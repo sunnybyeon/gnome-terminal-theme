@@ -1,0 +1,16 @@
+oliveBlueGray gnome terminal theme
+
+-TEXT
+	custom font : Monaco Regular, 20
+	cursur blinking : disabled
+-COLOR
+	Text and Background Color
+		built in schemes : (Gray on Black)
+		default color : #C4C4C4, #000000
+		bold color : #FFFFFF
+		cursur color : #FFFFFF, #C4C4C4
+		highlight color : #000000, #D5E2FF
+	Palette
+		built in schemes : (Solarized)
+		#073642, #DC322F, #A4B33C, #B58900, #6A9CBE, #D33682, #2AA198, #EEE8D5
+ 		#002B36, #CB4B16, #586E75, #657B83, #839496, #6C71C4, #93A1A1, #FDF6E3
